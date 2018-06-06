@@ -1,0 +1,3 @@
+C:\Project\ServiceBus\DocServiceBusTopic\DocServiceBusTopic\obj\Release\netcoreapp2.0\DocServiceBusTopic.csproj.CoreCompileInputs.cache
+C:\Project\ServiceBus\DocServiceBusTopic\DocServiceBusTopic\obj\Release\netcoreapp2.0\DocServiceBusTopic.AssemblyInfoInputs.cache
+C:\Project\ServiceBus\DocServiceBusTopic\DocServiceBusTopic\obj\Release\netcoreapp2.0\DocServiceBusTopic.AssemblyInfo.cs
